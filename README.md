@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Eclipse-tech7/Eclipse-tech7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm willyut23's Alt Account
 
-Here are some ideas to get you started:
+[![Main Account](https://img.shields.io/badge/Main%20Account-@willyut23-blue?style=for-the-badge&logo=github)](https://github.com/willyut23)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 📌 About
+
+This is my **alternate GitHub account** for [@willyut23](https://github.com/willyut23).
+
+For my main projects, repos, and activity, please check out my primary account:
+
+> ➡️ **[github.com/willyut23](https://github.com/willyut23)**
+
+---
+
+<div align="center">
+
+*Thanks for stopping by!* ✨
+
+</div>
