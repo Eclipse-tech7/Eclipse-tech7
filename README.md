@@ -1,15 +1,15 @@
 <div align="center">
 
-# willyut23 — alt account
+# willyut
 
-[![Main Account](https://img.shields.io/badge/Main%20Account-@willyut23-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willyut23)
-
-</div>
+[![Primary Account](https://img.shields.io/badge/github-willyut23-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willyut23)
 
 ---
 
-### About
+This is an alternate account. Active work lives on my primary profile.
 
-This is my alternate GitHub account — a side spot for whatever doesn't belong on the main one.
+**[→ github.com/willyut23](https://github.com/willyut23)**
 
-Main account: **[@willyut23](https://github.com/willyut23)**
+---
+
+</div>
