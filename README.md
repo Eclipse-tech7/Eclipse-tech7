@@ -1,25 +1,15 @@
 <div align="center">
 
-# 👋 Hey, I'm willyut23's Alt Account
+# willyut23 — alt account
 
-[![Main Account](https://img.shields.io/badge/Main%20Account-@willyut23-blue?style=for-the-badge&logo=github)](https://github.com/willyut23)
+[![Main Account](https://img.shields.io/badge/Main%20Account-@willyut23-lightgrey?style=for-the-badge&logo=github)](https://github.com/willyut23)
 
 </div>
 
 ---
 
-### 📌 About
+### About
 
-This is my **alternate GitHub account** for [@willyut23](https://github.com/willyut23).
+This is my alternate GitHub account. Not much here.
 
-For my main projects, repos, and activity, please check out my primary account:
-
-> ➡️ **[github.com/willyut23](https://github.com/willyut23)**
-
----
-
-<div align="center">
-
-*Thanks for stopping by!* ✨
-
-</div>
+Main account: **[@willyut23](https://github.com/willyut23)**
